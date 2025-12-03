@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**ThisisLogan/ThisisLogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+**Tafe NSW Petersham — Diploma of IT (Advanced Programming)**  
+_Feb 2025 – Jun 2025_
+- C#, TypeScript, Node.js, Bash
+- Git, MongoDB, Express, JWT, Docker
 
-Here are some ideas to get you started:
+**Tafe NSW Ultimo — Certificate III in IT**  
+_Feb 2024 – Jul 2024_
+- Python, Bash
+- Git, Flask, Tkinter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Jamf 100 Certification** (Jan 2023)
+
+### Projects
+**Step Tracker:** REST API + frontend + iOS HealthKit app + Rust Discord RPC integration  
+**PicPaw:** SaaS image processing with EXIF watermarking and optimization  
+**Counting Bot:** Discord.js collaborative counting bot  
+**Konnections:** Open-source NYT Connections clone (Python + Flask)
+
+### Skills
+**Languages:** Python, JavaScript, Rust, C#  
+**Technologies:** Git, Jamf, Jira, Bitbucket, Docker, AWS
